@@ -1,4 +1,4 @@
 mesos-solaris
 =============
 
-fork mesos for Solaris startin from v0.9
+Fork mesos for Solaris startin from v0.9. This repo contains the changed src files for Solaris Sparc env.
